@@ -1,0 +1,1877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4894,
+          13.0262
+        ]
+      },
+      "properties": {
+        "id": "sub_0",
+        "name": "ANCHEPALYA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.0262,
+        "lon": 77.4894,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.053,
+          13.118
+        ]
+      },
+      "properties": {
+        "id": "sub_1",
+        "name": "ANTHARASANAHALLI",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 13.118,
+        "lon": 77.053,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573,
+          12.978
+        ]
+      },
+      "properties": {
+        "id": "sub_2",
+        "name": "ASTATION",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.978,
+        "lon": 77.573,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.613,
+          12.8634
+        ]
+      },
+      "properties": {
+        "id": "sub_3",
+        "name": "BEGUR",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 12.8634,
+        "lon": 77.613,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.485,
+          12.95
+        ]
+      },
+      "properties": {
+        "id": "sub_4",
+        "name": "BENKIKERE",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.95,
+        "lon": 77.485,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.387,
+          12.798
+        ]
+      },
+      "properties": {
+        "id": "sub_5",
+        "name": "BIDADI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.798,
+        "lon": 77.387,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.562,
+          12.96
+        ]
+      },
+      "properties": {
+        "id": "sub_6",
+        "name": "BRINDAVAN",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.96,
+        "lon": 77.562,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.206,
+          12.651
+        ]
+      },
+      "properties": {
+        "id": "sub_7",
+        "name": "CHANNAPATNA",
+        "capacity_mva": 100,
+        "capacity_raw": "1X100",
+        "type": "substation",
+        "lat": 12.651,
+        "lon": 77.206,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.056,
+          13.398
+        ]
+      },
+      "properties": {
+        "id": "sub_8",
+        "name": "CHINTAMANI",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 13.398,
+        "lon": 78.056,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.398,
+          14.226
+        ]
+      },
+      "properties": {
+        "id": "sub_9",
+        "name": "CHITRADURGA",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 14.226,
+        "lon": 76.398,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.586,
+          12.971
+        ]
+      },
+      "properties": {
+        "id": "sub_10",
+        "name": "CPRI",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 12.971,
+        "lon": 77.586,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.337,
+          13.108
+        ]
+      },
+      "properties": {
+        "id": "sub_11",
+        "name": "DABASPET",
+        "capacity_mva": 250,
+        "capacity_raw": "1X100+1X150",
+        "type": "substation",
+        "lat": 13.108,
+        "lon": 77.337,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.921,
+          14.466
+        ]
+      },
+      "properties": {
+        "id": "sub_12",
+        "name": "DAVENGERE",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 14.466,
+        "lon": 75.921,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.52,
+          12.903
+        ]
+      },
+      "properties": {
+        "id": "sub_13",
+        "name": "DBPURA",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 12.903,
+        "lon": 77.52,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.629,
+          12.977
+        ]
+      },
+      "properties": {
+        "id": "sub_14",
+        "name": "EAST_DIVISION",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.977,
+        "lon": 77.629,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.725,
+          12.969
+        ]
+      },
+      "properties": {
+        "id": "sub_15",
+        "name": "EPIP",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.969,
+        "lon": 77.725,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.664,
+          12.899
+        ]
+      },
+      "properties": {
+        "id": "sub_16",
+        "name": "EXORA",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.899,
+        "lon": 77.664,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.512,
+          13.61
+        ]
+      },
+      "properties": {
+        "id": "sub_17",
+        "name": "GOWRIBIDANUR",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.61,
+        "lon": 77.512,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.343,
+          13.157
+        ]
+      },
+      "properties": {
+        "id": "sub_18",
+        "name": "GUTTUR",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.157,
+        "lon": 77.343,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.664,
+          12.958
+        ]
+      },
+      "properties": {
+        "id": "sub_19",
+        "name": "HAL",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.958,
+        "lon": 77.664,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.375,
+          12.674
+        ]
+      },
+      "properties": {
+        "id": "sub_20",
+        "name": "HAROHALLI",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 12.674,
+        "lon": 77.375,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.608,
+          13.032
+        ]
+      },
+      "properties": {
+        "id": "sub_21",
+        "name": "HBR LAYOUT",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.032,
+        "lon": 77.608,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5919,
+          13.0382
+        ]
+      },
+      "properties": {
+        "id": "sub_22",
+        "name": "HEBBAL",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.0382,
+        "lon": 77.5919,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62,
+          13.944
+        ]
+      },
+      "properties": {
+        "id": "sub_23",
+        "name": "HIRIYUR",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.944,
+        "lon": 76.62,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.647,
+          14.241
+        ]
+      },
+      "properties": {
+        "id": "sub_24",
+        "name": "HONNALI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 14.241,
+        "lon": 75.647,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.719,
+          12.989
+        ]
+      },
+      "properties": {
+        "id": "sub_25",
+        "name": "HOODY",
+        "capacity_mva": 350,
+        "capacity_raw": "2X100+1X150",
+        "type": "substation",
+        "lat": 12.989,
+        "lon": 77.719,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.281,
+          13.795
+        ]
+      },
+      "properties": {
+        "id": "sub_26",
+        "name": "HOSADURGA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.795,
+        "lon": 76.281,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.798,
+          13.071
+        ]
+      },
+      "properties": {
+        "id": "sub_27",
+        "name": "HOSKOTE",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.071,
+        "lon": 77.798,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6389,
+          12.9116
+        ]
+      },
+      "properties": {
+        "id": "sub_28",
+        "name": "HSR LAYOUT",
+        "capacity_mva": 400,
+        "capacity_raw": "1X100+2X150",
+        "type": "substation",
+        "lat": 12.9116,
+        "lon": 77.6389,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.568,
+          13.019
+        ]
+      },
+      "properties": {
+        "id": "sub_29",
+        "name": "ITI",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.019,
+        "lon": 77.568,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7377,
+          12.9846
+        ]
+      },
+      "properties": {
+        "id": "sub_30",
+        "name": "ITPL",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 12.9846,
+        "lon": 77.7377,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557,
+          13.213
+        ]
+      },
+      "properties": {
+        "id": "sub_31",
+        "name": "JALIGE_B",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.213,
+        "lon": 77.557,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6326,
+          12.7765
+        ]
+      },
+      "properties": {
+        "id": "sub_32",
+        "name": "JIGANI",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.7765,
+        "lon": 77.6326,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.012,
+          13.553
+        ]
+      },
+      "properties": {
+        "id": "sub_33",
+        "name": "KADUR-B",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.553,
+        "lon": 76.012,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.42,
+          12.546
+        ]
+      },
+      "properties": {
+        "id": "sub_34",
+        "name": "KANAKAPURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.546,
+        "lon": 77.42,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571,
+          12.981
+        ]
+      },
+      "properties": {
+        "id": "sub_35",
+        "name": "KRCROSS",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.981,
+        "lon": 77.571,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.637,
+          12.959
+        ]
+      },
+      "properties": {
+        "id": "sub_36",
+        "name": "KEONICS CITY",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.959,
+        "lon": 77.637,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.51,
+          12.926
+        ]
+      },
+      "properties": {
+        "id": "sub_37",
+        "name": "KHODAYS",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.926,
+        "lon": 77.51,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.542,
+          13.168
+        ]
+      },
+      "properties": {
+        "id": "sub_38",
+        "name": "KIADB DB PURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.168,
+        "lon": 77.542,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.636,
+          13.202
+        ]
+      },
+      "properties": {
+        "id": "sub_39",
+        "name": "KIADB H/W PARK",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.202,
+        "lon": 77.636,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.378,
+          12.674
+        ]
+      },
+      "properties": {
+        "id": "sub_40",
+        "name": "KIADB HAROHALLI",
+        "capacity_mva": 100,
+        "capacity_raw": "2X50",
+        "type": "substation",
+        "lat": 12.674,
+        "lon": 77.378,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.369,
+          12.995
+        ]
+      },
+      "properties": {
+        "id": "sub_41",
+        "name": "KIADB VN PURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.995,
+        "lon": 77.369,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.648,
+          13.227
+        ]
+      },
+      "properties": {
+        "id": "sub_42",
+        "name": "KIADB_AEROSPACE",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.227,
+        "lon": 77.648,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.741,
+          13.287
+        ]
+      },
+      "properties": {
+        "id": "sub_43",
+        "name": "KIADB_MUDDENAHALLI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.287,
+        "lon": 77.741,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.133,
+          13.135
+        ]
+      },
+      "properties": {
+        "id": "sub_44",
+        "name": "KOLAR",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 13.135,
+        "lon": 78.133,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6245,
+          12.9352
+        ]
+      },
+      "properties": {
+        "id": "sub_45",
+        "name": "KORAMANGALA",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.9352,
+        "lon": 77.6245,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58,
+          12.93
+        ]
+      },
+      "properties": {
+        "id": "sub_46",
+        "name": "KOTIPURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.93,
+        "lon": 77.58,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.486,
+          12.892
+        ]
+      },
+      "properties": {
+        "id": "sub_47",
+        "name": "KUMBALGODU",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.892,
+        "lon": 77.486,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21,
+          13.667
+        ]
+      },
+      "properties": {
+        "id": "sub_48",
+        "name": "MADHUGIRI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.667,
+        "lon": 77.21,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.229,
+          12.958
+        ]
+      },
+      "properties": {
+        "id": "sub_49",
+        "name": "MAGADI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.958,
+        "lon": 77.229,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.938,
+          13.005
+        ]
+      },
+      "properties": {
+        "id": "sub_50",
+        "name": "MALUR",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.005,
+        "lon": 77.938,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.617,
+          13.0465
+        ]
+      },
+      "properties": {
+        "id": "sub_51",
+        "name": "MANYATHA TECH PARK",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.0465,
+        "lon": 77.617,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.518,
+          12.854
+        ]
+      },
+      "properties": {
+        "id": "sub_52",
+        "name": "METTEHARI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.854,
+        "lon": 77.518,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.568,
+          13.931
+        ]
+      },
+      "properties": {
+        "id": "sub_53",
+        "name": "MRS SHIMOGA-B",
+        "capacity_mva": 0,
+        "capacity_raw": "-",
+        "type": "substation",
+        "lat": 13.931,
+        "lon": 75.568,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.515,
+          12.934
+        ]
+      },
+      "properties": {
+        "id": "sub_54",
+        "name": "NAGNATHPURA",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.934,
+        "lon": 77.515,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6,
+          12.88
+        ]
+      },
+      "properties": {
+        "id": "sub_55",
+        "name": "NEELGUNDA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.88,
+        "lon": 77.6,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5955,
+          12.938
+        ]
+      },
+      "properties": {
+        "id": "sub_56",
+        "name": "NIMHANS",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.938,
+        "lon": 77.5955,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.124,
+          13.355
+        ]
+      },
+      "properties": {
+        "id": "sub_57",
+        "name": "NITTUR",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.355,
+        "lon": 76.124,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.583,
+          12.977
+        ]
+      },
+      "properties": {
+        "id": "sub_58",
+        "name": "NRS",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.977,
+        "lon": 77.583,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.281,
+          14.098
+        ]
+      },
+      "properties": {
+        "id": "sub_59",
+        "name": "PAVAGADA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 14.098,
+        "lon": 77.281,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571,
+          12.977
+        ]
+      },
+      "properties": {
+        "id": "sub_60",
+        "name": "RAILWAYS",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 12.977,
+        "lon": 77.571,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.588,
+          13.059
+        ]
+      },
+      "properties": {
+        "id": "sub_61",
+        "name": "SAHAKARINAGAR",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.059,
+        "lon": 77.588,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7861,
+          12.8601
+        ]
+      },
+      "properties": {
+        "id": "sub_62",
+        "name": "SARJAPURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.8601,
+        "lon": 77.7861,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.745,
+          12.794
+        ]
+      },
+      "properties": {
+        "id": "sub_63",
+        "name": "SHOBHA DREAM ACRES",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.794,
+        "lon": 77.745,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.908,
+          13.744
+        ]
+      },
+      "properties": {
+        "id": "sub_64",
+        "name": "SIRA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.744,
+        "lon": 76.908,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.56,
+          12.847
+        ]
+      },
+      "properties": {
+        "id": "sub_65",
+        "name": "SOMANAHALLI",
+        "capacity_mva": 400,
+        "capacity_raw": "1X100+2X150",
+        "type": "substation",
+        "lat": 12.847,
+        "lon": 77.56,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.212,
+          13.337
+        ]
+      },
+      "properties": {
+        "id": "sub_66",
+        "name": "SRINIVASAPURA",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 13.337,
+        "lon": 78.212,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.518,
+          13.049
+        ]
+      },
+      "properties": {
+        "id": "sub_67",
+        "name": "SRSPEENYA",
+        "capacity_mva": 617,
+        "capacity_raw": "3X150+1X67.5+1X100",
+        "type": "substation",
+        "lat": 13.049,
+        "lon": 77.518,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.547,
+          12.887
+        ]
+      },
+      "properties": {
+        "id": "sub_68",
+        "name": "SUBRAMANYAPURA",
+        "capacity_mva": 400,
+        "capacity_raw": "2X150+1X100",
+        "type": "substation",
+        "lat": 12.887,
+        "lon": 77.547,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.504,
+          12.875
+        ]
+      },
+      "properties": {
+        "id": "sub_69",
+        "name": "T GOLLAHALLI",
+        "capacity_mva": 200,
+        "capacity_raw": "2X100",
+        "type": "substation",
+        "lat": 12.875,
+        "lon": 77.504,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.61,
+          13.07
+        ]
+      },
+      "properties": {
+        "id": "sub_70",
+        "name": "TALLAK",
+        "capacity_mva": 300,
+        "capacity_raw": "3X100",
+        "type": "substation",
+        "lat": 13.07,
+        "lon": 77.61,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5225,
+          12.8434
+        ]
+      },
+      "properties": {
+        "id": "sub_71",
+        "name": "TATAGUNI",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 12.8434,
+        "lon": 77.5225,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62,
+          12.678
+        ]
+      },
+      "properties": {
+        "id": "sub_72",
+        "name": "TKHALLI-B",
+        "capacity_mva": 0,
+        "capacity_raw": "-",
+        "type": "substation",
+        "lat": 12.678,
+        "lon": 77.62,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.517,
+          13.059
+        ]
+      },
+      "properties": {
+        "id": "sub_73",
+        "name": "TOYOTA",
+        "capacity_mva": 50,
+        "capacity_raw": "EHT",
+        "type": "substation",
+        "lat": 13.059,
+        "lon": 77.517,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.562,
+          13.012
+        ]
+      },
+      "properties": {
+        "id": "sub_74",
+        "name": "VIKAS TECH PARK",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.012,
+        "lon": 77.562,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.524,
+          12.923
+        ]
+      },
+      "properties": {
+        "id": "sub_75",
+        "name": "VRISHABHAVATHI",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 12.923,
+        "lon": 77.524,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.579,
+          12.865
+        ]
+      },
+      "properties": {
+        "id": "sub_76",
+        "name": "YARANDANAHALLI",
+        "capacity_mva": 350,
+        "capacity_raw": "2X100+1X150",
+        "type": "substation",
+        "lat": 12.865,
+        "lon": 77.579,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5963,
+          13.1007
+        ]
+      },
+      "properties": {
+        "id": "sub_77",
+        "name": "YELAHANKA",
+        "capacity_mva": 300,
+        "capacity_raw": "2X150",
+        "type": "substation",
+        "lat": 13.1007,
+        "lon": 77.5963,
+        "live_load_mw": null,
+        "bescom_total_actual_mw": "6271",
+        "bescom_total_schedule_mw": "5616",
+        "bescom_ui_mw": "656",
+        "data_timestamp": "07/05/2026 23:35"
+      }
+    }
+  ]
+}

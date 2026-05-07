@@ -1,0 +1,1418 @@
+source_zone,target_zone,shared_event_weight
+BAGALKOTE,Machhe,9
+BAGALKOTE,Bailahongala,9
+BAGALKOTE,MK Hubli,26
+BAGALKOTE,Benakatti,39
+Ambewadi,BAGALKOTE,166
+Athani,BAGALKOTE,55
+BAGALKOTE,Ghataprabha,56
+BAGALKOTE,Guttal,40
+BAGALKOTE,Haveri,59
+BAGALKOTE,nan,2194
+BAGALKOTE,Hunagund,36
+BAGALKOTE,Jindal,4
+BAGALKOTE,Kulgeri Cross,62
+BAGALKOTE,Kittur,2
+BAGALKOTE,Narendra,85
+BAGALKOTE,Chikkodi,63
+BAGALKOTE,Suvarna Soudha,13
+BAGALKOTE,Ugar,36
+BANGALORE,Bidadi,10
+BANGALORE,nan,8262
+BANGALORE,BG Road,24
+BANGALORE,Brindavan,23
+BANGALORE,Subramanyapura Substation,23
+GULBARGA,nan,1208
+GULBARGA,Shahapur,125
+GULBARGA,Gudekote,23
+GULBARGA,Lingasugur,87
+Arasikere,HASAN,1
+HASAN,nan,715
+HASAN,Kaduru,18
+HASAN,Honnalli,2
+Beguru,MYSORE,92
+MYSORE,nan,4059
+Halagur,MYSORE,22
+Hebbani,MYSORE,184
+Kadakola,MYSORE,371
+MYSORE,Ponnampet,34
+MYSORE,Taripura,10
+TUMKUR,nan,3195
+Haveri,TUMKUR,78
+Guttur New,TUMKUR,61
+Hosadurga,TUMKUR,72
+Hariyabbe,TUMKUR,76
+BAGALKOTE,Hattaragi,13
+BAGALKOTE,Kadanakoppa,23
+BAGALKOTE,Gajendragad,45
+Alabal,BAGALKOTE,17
+Atharga,BAGALKOTE,80
+BAGALKOTE,Babaleshwar,38
+BAGALKOTE,Belgaum,44
+BAGALKOTE,Tikota,26
+BAGALKOTE,Yadawad,13
+BANGALORE,HMT,15
+GULBARGA,Guttur New,3
+GULBARGA,Ujani,3
+GULBARGA,Wadgera,1
+GULBARGA,Lingapura,12
+GULBARGA,Kembhavi,14
+Bajpe,HASAN,1
+HASAN,Kavoor,13
+HASAN,Konaje,11
+HASAN,Kundapura,1
+HASAN,Nandikur,6
+HASAN,Suzlon,3
+HASAN,Puttur,10
+HASAN,Soraba,7
+MYSORE,Meghalapura,25
+Koppa,MYSORE,15
+MYSORE,Muguru,49
+MYSORE,Periyapatna,59
+MYSORE,Tubinakere,129
+Mathodu,TUMKUR,65
+Benkikere,TUMKUR,191
+Hireguntur,TUMKUR,3
+Shimoga,TUMKUR,28
+Sira,TUMKUR,78
+BAGALKOTE,Kagwad,9
+BAGALKOTE,Ranebennuru,65
+BAGALKOTE,Muddebihal,10
+BAGALKOTE,Bagalkot,87
+BAGALKOTE,Kerur,16
+BAGALKOTE,Bydagi,11
+BAGALKOTE,Hubli,112
+BAGALKOTE,Itnal,37
+BAGALKOTE,Badami,11
+BAGALKOTE,Konnur,22
+BAGALKOTE,Mahalingapura,96
+BAGALKOTE,Hirebagewadi,5
+BAGALKOTE,Takalaki,26
+BAGALKOTE,Vajramatti,69
+BANGALORE,Hosur,6
+BANGALORE,Bevoor,3
+BANGALORE,Ganjigunte,25
+BANGALORE,Mathikere,31
+GULBARGA,Kanakagiri,15
+GULBARGA,Hiregonnagara,11
+GULBARGA,Manvi,10
+HASAN,Hassan,12
+HASAN,Manipal,7
+HASAN,UPCL,2
+HASAN,Shikaripura,4
+Hampapura,MYSORE,105
+Attigulipura,MYSORE,15
+Kushalnagar,MYSORE,170
+MYSORE,Nagamangala,118
+Ramapura,TUMKUR,15
+Aremallapur,BAGALKOTE,4
+BAGALKOTE,Bilagi,39
+BAGALKOTE,Yaragatti,8
+BAGALKOTE,Bijapur,39
+BAGALKOTE,Shiggoan,50
+BAGALKOTE,Doni,31
+BAGALKOTE,Balligavi,5
+BAGALKOTE,Hirekerur,46
+BANGALORE,Kanakapura,57
+BANGALORE,Hassan,1
+BANGALORE,Talaguppa,2
+BANGALORE,Vidyanagar,58
+BANGALORE,Bangarapete,17
+GULBARGA,Kudligi,22
+GULBARGA,Gurgunta,4
+GULBARGA,Munirabad Sub Station,37
+GULBARGA,Raichur,50
+GULBARGA,Gabbur,14
+Chitapur,GULBARGA,11
+MYSORE,Terakanambi,4
+Honnalli,MYSORE,16
+Madhugiri,TUMKUR,135
+Jagalur,TUMKUR,39
+BAGALKOTE,Dambal,22
+BAGALKOTE,Mundaragi,15
+BAGALKOTE,Enercon Bellati,2
+Akhilagya Solar,BAGALKOTE,1
+BAGALKOTE,Gadag,106
+BAGALKOTE,Jamakhandi,38
+BAGALKOTE,Kumta,35
+BAGALKOTE,Malghan,27
+BAGALKOTE,Ramankoppa,17
+BANGALORE,Manyata,47
+BANGALORE,REMCO,18
+GULBARGA,Halbarga,25
+GULBARGA,Khanapur,95
+GULBARGA,Margutti Cross,7
+GULBARGA,Yeragera,3
+GULBARGA,Sirwar,8
+Bandihalli,MYSORE,23
+MYSORE,Vajamangala,70
+Karaya,MYSORE,10
+MYSORE,PG Palya,24
+MYSORE,Madhuvanahally,220
+MYSORE,Vijaya Nagar,7
+Ramagiri Sub Station,TUMKUR,22
+Kaiga,TUMKUR,28
+Midigeshi,TUMKUR,10
+Hangal,TUMKUR,16
+Chitradurga Traction,TUMKUR,59
+BAGALKOTE,Kaladagi,23
+BAGALKOTE,Salahalli,7
+BAGALKOTE,Hanagal,16
+BAGALKOTE,Zhalki,61
+BAGALKOTE,Bidnal,173
+BAGALKOTE,Indi,23
+BAGALKOTE,Lokapur,16
+BANGALORE,Channapatna,16
+BANGALORE,Mahalakshmi Layout,9
+GULBARGA,Mallat,42
+GULBARGA,Kogli,3
+GULBARGA,Kurugodu,6
+GULBARGA,Konkal,22
+GULBARGA,Sedam,22
+HASAN,Shimoga,2
+HASAN,Sagara,3
+HASAN,Varahi,12
+Beranahalli,TUMKUR,3
+Davanagere,TUMKUR,38
+BAGALKOTE,Mamadapura,49
+BAGALKOTE,Devaragennur,3
+BAGALKOTE,Todalbagi,7
+BAGALKOTE,Halyal,9
+BAGALKOTE,Hirehala,8
+BAGALKOTE,Ron,75
+BAGALKOTE,Sirasi,234
+BAGALKOTE,Udakeri,9
+BANGALORE,Sathenahalli,45
+BANGALORE,Jayadeva,25
+Gundlupet,MYSORE,18
+Kadabahalli,MYSORE,1
+Kallur,TUMKUR,10
+Magadi,TUMKUR,2
+BAGALKOTE,Kalaghatagi,24
+BAGALKOTE,Tarihal,26
+BAGALKOTE,Nargund,3
+BANGALORE,Tubinakere,13
+BANGALORE,Somanahalli Substation,21
+Abbigere,BANGALORE,22
+Aurad,GULBARGA,5
+Honnali,TUMKUR,12
+BAGALKOTE,Talikoti,17
+BANGALORE,Vikas Tech Park Substation,24
+BANGALORE,Bagmane WTC,13
+BANGALORE,Soladevanahalli,18
+GULBARGA,Kushtagi,20
+GULBARGA,Galaga,19
+GULBARGA,Nalwar,13
+GULBARGA,Naganoor,5
+GULBARGA,Hampasagara,1
+HASAN,Hiriyadka,4
+MYSORE,Mandya Power Sub station,32
+MYSORE,Shanivarasanthe,25
+Antharasanahalli,TUMKUR,25
+Hanamasagara,TUMKUR,8
+Arasikere,TUMKUR,4
+Doddaguni,TUMKUR,7
+BAGALKOTE,Devanagaon,4
+Aheri,BAGALKOTE,26
+Annigeri,BAGALKOTE,12
+BANGALORE,Banashankari,2
+BANGALORE,Hebbal Substation,25
+BANGALORE,Hebbani,10
+GULBARGA,Humnabad,16
+GULBARGA,Ramasamudra Sub Station,34
+GULBARGA,Saidapur,4
+HASAN,Madhuvana,6
+Gurupura,HASAN,2
+MYSORE,Uttur,27
+Chikkajajuru,TUMKUR,32
+Arga,BAGALKOTE,15
+Ankola,BAGALKOTE,22
+BAGALKOTE,Karwar,28
+BAGALKOTE,Kiravatti,11
+BAGALKOTE,Umachagi,3
+Allipura,GULBARGA,11
+GULBARGA,Venkatagiri,13
+MYSORE,Yelanduru,44
+BAGALKOTE,Mortagi,4
+BANGALORE,Budigere,11
+BANGALORE,Pathapalya,13
+GULBARGA,Madalapura,3
+GULBARGA,Sirwal,3
+GULBARGA,Kamalapura,3
+Harave,MYSORE,10
+Bylakuppe,MYSORE,7
+Amruthur,TUMKUR,10
+Chelur,TUMKUR,22
+BAGALKOTE,Hukkeri,27
+BAGALKOTE,Munavalli,16
+BANGALORE,Mudiyanur,32
+Austin Town Substation,BANGALORE,7
+GULBARGA,Ladha,2
+GULBARGA,Ganadala,1
+GULBARGA,Sindhanur,4
+HASAN,Honnavalli,1
+HASAN,Salagame,10
+Anavatti,HASAN,1
+HASAN,Kittadahalli,1
+Narendra,TUMKUR,7
+Handanakere,TUMKUR,25
+Bandihalli,TUMKUR,22
+TUMKUR,Thimmanahalli,16
+TUMKUR,Tiptur,7
+Sampige,TUMKUR,11
+BAGALKOTE,Daddi,13
+BAGALKOTE,Mudalgi,5
+Alnavar,BAGALKOTE,8
+BAGALKOTE,Shiraguppi,9
+BAGALKOTE,Mughalkod,40
+BANGALORE,Hoskote,19
+BANGALORE,ITI,27
+GULBARGA,Itagi,58
+GULBARGA,Sriramnagar,1
+GULBARGA,Vajrabandi,1
+Hunsur,MYSORE,87
+Hullenahalli,MYSORE,29
+MYSORE,Maddur,29
+BAGALKOTE,Navalagi,28
+BAGALKOTE,Nippani,10
+BANGALORE,Golf Links Substation,16
+Attibele,BANGALORE,29
+Haluvagilu,TUMKUR,2
+Ankali,BAGALKOTE,14
+BANGALORE,Kumbalagodu,3
+BANGALORE,HBR Layout,11
+GULBARGA,Shahabad,23
+Lingadahalli,TUMKUR,22
+BAGALKOTE,Dhavleshwar,9
+BAGALKOTE,Sankeshwara,5
+BAGALKOTE,Hangal,2
+BAGALKOTE,Jambagi,6
+BAGALKOTE,Kanagala,16
+BAGALKOTE,Kudachi,32
+BANGALORE,Tamaka,26
+BANGALORE,Mulbagal,49
+GULBARGA,Hanawala,22
+GULBARGA,Koppal,4
+Chincholi,GULBARGA,7
+HASAN,Karkala,4
+Besegarhalli,MYSORE,11
+Bidarekere,TUMKUR,37
+Nitrahalli,TUMKUR,8
+BAGALKOTE,Naregal,17
+BAGALKOTE,Kavalwad,6
+BAGALKOTE,Chandakavathe,3
+BANGALORE,Padmanabha Nagar Substation,14
+GULBARGA,Gulbarga West,2
+HASAN,Heggunje,1
+Hangala,MYSORE,11
+Bommalapura,MYSORE,8
+KR Nagar,MYSORE,23
+BAGALKOTE,Rattihalli,14
+Afzalpur,GULBARGA,3
+GULBARGA,Renew Solar,1
+Bargur,HASAN,2
+HASAN,Sathenahalli,2
+Kanagala,MYSORE,9
+MYSORE,Virajpet,10
+TUMKUR,Vijayapura,6
+Honnalli,TUMKUR,133
+BAGALKOTE,Devarahipparagi,1
+BAGALKOTE,Savanur,1
+BAGALKOTE,Kudal Sangam,2
+BAGALKOTE,Terdal,44
+BAGALKOTE,Melligeri,9
+BANGALORE,Iggaluru,4
+GULBARGA,Tekkalkote,23
+GULBARGA,KIADB Substation,4
+HASAN,Sanda,1
+HASAN,Mavali,1
+Nagamangala,TUMKUR,9
+Nagasamudra,TUMKUR,13
+Huliyurudurga,TUMKUR,3
+Aques,BAGALKOTE,3
+BAGALKOTE,Hiremural,2
+BANGALORE,Chandra Layout,1
+GULBARGA,Ujjini,11
+Arasikere,GULBARGA,8
+GULBARGA,Mudgal,4
+Hanagodu,MYSORE,5
+Bherya,MYSORE,9
+MYSORE,Santemaranahalli,4
+BAGALKOTE,Hudali,12
+BANGALORE,Magadi,21
+BANGALORE,Chandapura,5
+Anekal,BANGALORE,9
+Bellary North,GULBARGA,13
+GULBARGA,Yelburga,1
+MYSORE,Sargur,9
+Hiriyuru,TUMKUR,33
+BAGALKOTE,Sindagi KEB substation,10
+BAGALKOTE,Bijapur City,14
+BAGALKOTE,Laxmeshwar,23
+BAGALKOTE,Bhutnal,6
+BAGALKOTE,Rabkavi,5
+BAGALKOTE,Raibagh,35
+BAGALKOTE,Ugar Sugars,4
+GULBARGA,Kadaganchii,20
+GULBARGA,Kampli,7
+HASAN,Mattanavile,1
+BAGALKOTE,Navalgund,20
+Ainapur,BAGALKOTE,9
+BAGALKOTE,Gamesha Ron,3
+BANGALORE,Talagawara,5
+BANGALORE,Gokula,8
+Kattige,TUMKUR,39
+Hanagal,TUMKUR,10
+BANGALORE,Gudibanda,4
+BAGALKOTE,Mukarthihal,15
+BAGALKOTE,Sadalaga,20
+BANGALORE,Platinum City Power Station,11
+BANGALORE,Jadigenahalli,2
+Aski,GULBARGA,4
+Belur,HASAN,1
+Ajjampura,HASAN,1
+TUMKUR,Ujjini,14
+GULBARGA,Vestas,1
+GULBARGA,Mukunda,4
+GULBARGA,Sirigeri Cross,12
+BAGALKOTE,Shirhatti,4
+GULBARGA,Ilakal,3
+Malebennuru,TUMKUR,20
+BAGALKOTE,Guledagudda,17
+BAGALKOTE,Mudhol,5
+Bevoor,GULBARGA,3
+Pavagada,TUMKUR,116
+Essur,HASAN,1
+Challakere,TUMKUR,47
+BAGALKOT,Guttal,58
+BAGALKOT,Uttur,54
+BAGALKOT,Navalagi,43
+BAGALKOT,nan,2221
+Athani,BAGALKOT,41
+BAGALKOT,Babaleshwar,36
+BAGALKOT,Kushtagi,21
+BAGALKOT,Ghataprabha,96
+BAGALKOT,Mamadapura,14
+BAGALKOT,Navanagara,65
+BAGALKOT,Sirasi,218
+BAGALKOT,Munavalli,26
+BAGALKOT,Benakatti,26
+BAGALKOT,Bidnal,223
+BAGALKOT,Saundatti,110
+BAGALKOT,Chikkodi,123
+BAGALKOT,Kudachi,50
+BENGALORE,nan,1265
+BENGALORE,Maralavadi,7
+BENGALORE,Tamaka,1
+BENGALORE,Pathapalya,4
+BENGALORE,Hebbal Substation,29
+BENGALORE,Chitapur,1
+HASSAN,nan,6153
+HASSAN,Hanbal,54
+HASSAN,Hadavanahalli,2
+Annigeri,BAGALKOT,8
+BAGALKOT,Bagalkot,64
+BAGALKOT,Talikoti,11
+BAGALKOT,Mortagi,14
+BAGALKOT,Kaladagi,15
+BAGALKOT,Machhe,22
+BAGALKOT,Gadag,70
+BAGALKOT,Belgaum,73
+BAGALKOT,Navalgund,32
+BAGALKOT,Hattaragi,11
+BAGALKOT,Hudali,52
+BAGALKOT,Nippani,15
+BAGALKOT,Haveri,64
+BAGALKOT,Shiggaon Sub Station,4
+BENGALORE,Mulbagal,10
+BENGALORE,Sedam,1
+HASSAN,Konaje,117
+HASSAN,Sagara,36
+BAGALKOT,Mundagoda,12
+BAGALKOT,Hidakal,6
+Ambewadi,BAGALKOT,176
+BAGALKOT,Belur,7
+BAGALKOT,Hubli,115
+BAGALKOT,Kalaghatagi,29
+BAGALKOT,Kiravatti,22
+BAGALKOT,Kumta,36
+BAGALKOT,Murdeswara,14
+Attibele,BENGALORE,4
+BENGALORE,Gulbarga,21
+HASSAN,Hassan,147
+BAGALKOT,Udyambag,103
+Atharga,BAGALKOT,32
+BAGALKOT,Kulgeri Cross,60
+BENGALORE,Vidyanagar,6
+BENGALORE,MEI Layout,3
+BENGALORE,ITI,2
+BENGALORE,Mallat,2
+HASSAN,Puttur,104
+HASSAN,Varahi,158
+HASSAN,Uttur,2
+BAGALKOT,Ranebennuru,45
+BAGALKOT,Sultanpur,26
+BAGALKOT,Gajendragad,64
+BAGALKOT,Hirehala,6
+BAGALKOT,Ron,42
+BAGALKOT,Hirekerur,27
+BAGALKOT,Jambagi,35
+BAGALKOT,Bilagi,33
+BAGALKOT,Lokapur,19
+BAGALKOT,Vajramatti,75
+BAGALKOT,Melligeri,14
+BENGALORE,Magadi,4
+BENGALORE,Chandra Layout,1
+HASSAN,Nandikur,29
+HASSAN,Nagamangala,2
+BAGALKOT,Mundaragi,17
+Anmod,BAGALKOT,2
+Arga,BAGALKOT,5
+Alnavar,BAGALKOT,8
+BAGALKOT,Enercon,7
+BAGALKOT,Koppal,18
+BAGALKOT,Narendra,103
+BENGALORE,Hebbani,1
+Banavara,HASSAN,17
+HASSAN,Kittadahalli,37
+HASSAN,Honnalli,53
+Aheri,BAGALKOT,30
+BENGALORE,Kushtagi,1
+BAGALKOT,Raibagh,32
+BAGALKOT,Rattihalli,27
+BAGALKOT,Enercon Bellati,6
+BAGALKOT,Laxmeshwar,28
+BAGALKOT,Hukkeri,51
+BAGALKOT,Malghan,41
+BAGALKOT,Betageri,6
+BAGALKOT,Naregal,8
+BAGALKOT,Bhutnal,3
+BAGALKOT,Tikota,22
+BAGALKOT,Shiggoan,56
+BAGALKOT,Balligavi,4
+HASSAN,Kavoor,126
+HASSAN,Hiriyadka,34
+HASSAN,Hulikal,8
+BAGALKOT,Sadalaga,42
+BAGALKOT,Doni,31
+BENGALORE,Mudiyanur,1
+BENGALORE,Tubinakere,25
+HASSAN,Salagame,62
+BAGALKOT,Shiraguppi,15
+BENGALORE,C Station,2
+BENGALORE,Dibburahalli,3
+BENGALORE,Bidadi,9
+HASSAN,Mudigere,38
+HASSAN,Kaduru,238
+HASSAN,UPCL,15
+Hosakere,MYSORE,2
+Ankali,BAGALKOT,13
+BENGALORE,Manyata,7
+Austin Town Substation,BENGALORE,3
+BAGALKOT,Itnal,35
+BENGALORE,Somanahalli Substation,3
+BAGALKOT,Ilakal,3
+BENGALORE,Jadigenahalli,2
+BENGALORE,BG Road,6
+BENGALORE,Subramanyapura Substation,2
+Anekal,BENGALORE,3
+Ainapur,BAGALKOT,15
+HASSAN,Shikaripura,32
+Kunigal,MYSORE,1
+BAGALKOT,Nidagundi,12
+BAGALKOT,Gokak,26
+BAGALKOT,Dambal,63
+BAGALKOT,Jamakhandi,21
+Haluvagilu,MYSORE,1
+BAGALKOT,Indi,12
+BAGALKOT,Bijapur,24
+BAGALKOT,Kadanakoppa,32
+BAGALKOT,Vadgaon,8
+BAGALKOT,MK Hubli,35
+BAGALKOT,Zhalki,64
+BAGALKOT,Daddi,11
+BAGALKOT,Ronihal,4
+BAGALKOT,Takalaki,28
+BENGALORE,Hoskote,3
+BENGALORE,Santhpur,1
+Chimangala,MYSORE,1
+BAGALKOT,Ramankoppa,15
+BAGALKOT,Mughalkod,57
+BENGALORE,Padmanabha Nagar Substation,4
+BENGALORE,REMCO,2
+HASSAN,Shimoga,38
+Gandasi,HASSAN,15
+MYSORE,Tumkur,5
+BENGALORE,Ganjigunte,4
+BENGALORE,Surya City,2
+BENGALORE,Mittemari,4
+BENGALORE,Lingasugur,1
+BENGALORE,Platinum City Power Station,2
+BAGALKOT,Hanagal,15
+Alabal,BAGALKOT,13
+HASSAN,Siddapura,1
+Kittur,MYSORE,7
+Tumkur,nan,214
+Hariyabbe,nan,4
+Arasikere,nan,1
+Nelamangala,nan,1
+BAGALKOT,Terdal,25
+Ankola,BAGALKOT,31
+BENGALORE,Kolar Sub Station,2
+BENGALORE,Channapatna,1
+BENGALORE,Vajamangala,5
+BAGALKOT,Siddapura,4
+BAGALKOT,Shirgaon,1
+BAGALKOT,Khadaklat,17
+BAGALKOT,Toravi,3
+BAGALKOT,Bellubbi,2
+BAGALKOT,Kanbargi,17
+BAGALKOT,Kulagod,1
+BENGALORE,Bangarapete,5
+BENGALORE,Jayadeva,1
+Benkikere,MYSORE,1
+BAGALKOT,Kerur,64
+BENGALORE,Iggaluru,2
+MYSORE,Sira,1
+BAGALKOT,Khanapur,5
+Hirisave,MYSORE,2
+MYSORE,Nagasamudra,1
+BAGALKOT,Suvarna Soudha,28
+BAGALKOT,Yaragatti,13
+BAGALKOT,Udakeri,2
+BENGALORE,Kumbalagodu,2
+BENGALORE,Sira,2
+BENGALORE,Raichur,1
+KHB Yelahanka,MYSORE,10
+Aditya Birla Solar,BAGALKOT,2
+BAGALKOT,Badami,2
+BAGALKOT,Konnur,12
+BAGALKOT,Bidi,7
+BAGALKOT,Ramadurga,14
+BENGALORE,Gudekote,1
+Gurupura,HASSAN,24
+BAGALKOT,Halyal,16
+BAGALKOT,Basavanakatti,18
+BAGALKOT,Yallammanawadi,24
+BAGALKOT,Karwar,46
+BAGALKOT,Kanagala,15
+BAGALKOT,Mahalingapura,68
+Adugodi Substation,BENGALORE,1
+BAGALKOT,Umachagi,14
+BENGALORE,Mathikere,1
+HASSAN,Suzlon,14
+BAGALKOT,Sindagi KEB substation,7
+BAGALKOT,Jamkhandi Sugars,18
+BENGALORE,Ujani,1
+BAGALKOT,Mukarthihal,8
+BAGALKOT,Hunagund,21
+BENGALORE,HMT,1
+BENGALORE,Bagmane WTC,1
+Avanti,BENGALORE,1
+HASSAN,Kundapura,17
+MYSORE,Madhugiri,1
+BAGALKOT,Singatalur,5
+BANGALORE,Gulbarga,47
+Bylakuppe,HASSAN,1
+Arehalli,BANGALORE,18
+BANGALORE,Budikote,3
+Adani Solar,BANGALORE,3
+HASSAN,Hosangadi,18
+HASSAN,Ramapura,1
+Hullenahalli,TUMKUR,3
+BAGALKOT,Bijapur City,13
+BANGALORE,Maralavadi,24
+BANGALORE,Electronic City Phase 2,10
+BANGALORE,Dibburahalli,14
+BANGALORE,Raichur,2
+Hadavanahalli,TUMKUR,8
+Aigali,BAGALKOT,9
+BAGALKOT,Kudal Sangam,5
+BANGALORE,Chelur,2
+HASSAN,Manipal,52
+HASSAN,Talaguppa,7
+BAGALKOT,Muddebihal,24
+Rangenahalli,TUMKUR,21
+HASSAN,Meghalapura,1
+Kunigal,TUMKUR,17
+TUMKUR,Tyavaagi,61
+Huliyar,TUMKUR,3
+BAGALKOT,Bydagi,10
+BANGALORE,Shahapur,1
+Arehalli,HASSAN,12
+Bhaktarahalli,TUMKUR,8
+Chowdanakuppe,TUMKUR,7
+Kalamaranahalli,TUMKUR,17
+BAGALKOT,Kagwad,5
+BANGALORE,Mallat,4
+BANGALORE,Kolar Sub Station,37
+HASSAN,Honnavalli,13
+Bettadapura,HASSAN,1
+KIADB Substation,TUMKUR,10
+BAGALKOT,Todalbagi,9
+BAGALKOT,Kavalwad,8
+Belur,HASSAN,15
+Nayakana Hatti,TUMKUR,8
+BANGALORE,Kudligi,5
+TUMKUR,Tumkur,18
+Bhanuvalli,TUMKUR,29
+BAGALKOT,Ugar Sugars,2
+BAGALKOT,Sankeshwara,14
+BANGALORE,Gudekote,2
+BAGALKOT,Nargund,9
+HASSAN,Soraba,22
+Chimangala,TUMKUR,5
+BAGALKOT,Suzlon,1
+BAGALKOT,Devanagaon,1
+BAGALKOT,Yadawad,4
+Anavatti,HASSAN,8
+HASSAN,Honnali,13
+MYSORE,Panniyadhundai,7
+Bargur,HASSAN,17
+HASSAN,Sathenahalli,5
+Balligavi,HASSAN,2
+Bannur,MYSORE,26
+BAGALKOT,Dhavleshwar,1
+BAGALKOT,Shirhatti,3
+BANGALORE,Godur,5
+HASSAN,Kallusadarahalli,3
+Guddenahalli,MYSORE,11
+Hosakere,TUMKUR,9
+BAGALKOT,Mudhol,8
+BANGALORE,Humnabad,1
+HASSAN,Madhuvana,24
+BAGALKOT,Satti,3
+BANGALORE,Kogli,1
+BAGALKOT,Devaragennur,3
+BAGALKOT,Mamdapurar,1
+BAGALKOT,Tarihal,8
+BANGALORE,Mittemari,27
+BANGALORE,Halbarga,2
+BANGALORE,Sovenahalli,9
+HASSAN,Hagare,8
+Bettadapura,MYSORE,10
+BAGALKOT,Hirebagewadi,12
+BAGALKOT,Ugar,16
+BAGALKOT,Mundaganura,1
+BAGALKOT,Masuti,3
+Arasikere,HASSAN,4
+BAGALKOT,Guledagudda,6
+Balenahalli,TUMKUR,20
+HASSAN,Nagenahalli,13
+Hebbal Substation,MYSORE,9
+Hosur Gate,MYSORE,6
+BAGALKOT,Mudalgi,4
+Chitradurga Traction,nan,3
+Kadaba,nan,3
+Shimoga,nan,1
+Madhugiri,nan,5
+HASSAN,Karkala,26
+Antharasanahalli,nan,3
+BAGALKOT,Gamesha Ron,1
+BANGALORE,Ujani,1
+Bargur,nan,1
+Bhaktarahalli,nan,1
+Challakere,nan,4
+Hosadurga,nan,1
+Ramapura,nan,3
+Hiriyuru,nan,2
+BANGALORE,Venkatagiri,2
+Atria,MYSORE,2
+Kunigal,nan,1
+Doddaguni,nan,1
+Gubbi,nan,1
+BAGALKOT,Savalagi,5
+Bhanuvalli,nan,1
+Kallur,nan,1
+Haveri,nan,1
+BAGALKOTE LINE,nan,314
+Atharga,BAGALKOTE LINE,26
+BAGALKOTE LINE,Babaleshwar,21
+BAGALKOTE LINE,Mamadapura,12
+BAGALKOTE LINE,Kanbargi,28
+BAGALKOTE LINE,Dambal,19
+BAGALKOTE LINE,Gadag,5
+BAGALKOTE LINE,Gokak,4
+BAGALKOTE LINE,Gopankoppa,2
+BAGALKOTE LINE,Ghataprabha,17
+BAGALKOTE LINE,Hirebevanura,1
+BAGALKOTE LINE,Hubli,27
+BAGALKOTE LINE,Kalaghatagi,1
+BAGALKOTE LINE,Udyambag,30
+BAGALKOTE LINE,Ronihal,3
+BAGALKOTE LINE,Sankeshwara,4
+BAGALKOTE LINE,Jamakhandi,7
+BAGALKOTE LINE,Mahalingapura,34
+BAGALKOTE TRANSFORMER,Bisnal,3
+BAGALKOTE TRANSFORMER,nan,100
+Alnavar,BAGALKOTE TRANSFORMER,3
+BAGALKOTE TRANSFORMER,Zhalki,14
+BENGALURU LINE,Budigere,5
+BENGALURU LINE,nan,659
+BENGALURU LINE,HMT,2
+BENGALURU LINE,REMCO,7
+BENGALURU LINE,Hebbal Substation,3
+BENGALURU TRANSFORMER,nan,423
+BENGALURU TRANSFORMER,Sovenahalli,5
+HASSAN LINE,nan,412
+HASSAN LINE,Sathenahalli,2
+HASSAN LINE,Kavoor,15
+HASSAN LINE,Puttur,10
+HASSAN TRANSFORMER,nan,239
+HASSAN TRANSFORMER,Puttur,1
+Benkikere,TUMKUR LINE,31
+TUMKUR LINE,Tyavaagi,13
+Kundur,TUMKUR LINE,7
+TUMKUR LINE,nan,194
+Madhugiri,TUMKUR LINE,16
+Hariyabbe,TUMKUR LINE,10
+Kaiga,TUMKUR LINE,2
+TUMKUR TRANSFORMER,nan,56
+BAGALKOTE LINE,Badami,1
+BAGALKOTE LINE,Kulgeri Cross,11
+BAGALKOTE LINE,Bhutnal,1
+BAGALKOTE LINE,Tikota,2
+BAGALKOTE LINE,Doni,3
+BAGALKOTE LINE,Karwar,5
+BAGALKOTE LINE,Bidnal,7
+BAGALKOTE LINE,Shiggoan,3
+BAGALKOTE LINE,Narendra,15
+BAGALKOTE TRANSFORMER,Itnal,2
+BAGALKOTE TRANSFORMER,Chikkodi,6
+BAGALKOTE TRANSFORMER,Gopankoppa,2
+BAGALKOTE TRANSFORMER,Sindagi KEB substation,4
+BAGALKOTE TRANSFORMER,MK Hubli,3
+BAGALKOTE TRANSFORMER,Tikota,1
+BENGALURU LINE,Manyata,11
+BENGALURU LINE,Bangarapete,3
+BENGALURU LINE,Dibburahalli,11
+Anavatti,HASSAN LINE,2
+HASSAN LINE,Kaduru,15
+HASSAN LINE,Konaje,12
+HASSAN LINE,Kundapura,2
+HASSAN TRANSFORMER,KR Nagar,1
+Amruthur,TUMKUR LINE,2
+Chowdanakuppe,TUMKUR LINE,3
+Rangenahalli,TUMKUR LINE,8
+Honnalli,TUMKUR LINE,24
+Jagalur,TUMKUR LINE,1
+Chitradurga Traction,TUMKUR TRANSFORMER,4
+Lingadahalli,TUMKUR TRANSFORMER,3
+Sira,TUMKUR TRANSFORMER,1
+Ankali,BAGALKOTE TRANSFORMER,2
+BENGALURU LINE,Vidyanagar,4
+BENGALURU LINE,Hoskote,3
+BENGALURU LINE,Mulbagal,15
+BENGALURU TRANSFORMER,Bellary North,2
+Bandihalli,HASSAN TRANSFORMER,1
+Hosadurga,TUMKUR LINE,11
+Nayakana Hatti,TUMKUR LINE,5
+Benkikere,TUMKUR TRANSFORMER,1
+BAGALKOTE LINE,Bijapur,6
+BAGALKOTE LINE,Kumta,3
+BAGALKOTE LINE,Mughalkod,4
+BAGALKOTE LINE,Savanur,1
+Ambewadi,BAGALKOTE LINE,9
+BAGALKOTE LINE,Ranebennuru,14
+BAGALKOTE TRANSFORMER,Sadalaga,1
+BAGALKOTE TRANSFORMER,Bijapur,4
+BENGALURU LINE,Pathapalya,4
+Abbigere,BENGALURU LINE,2
+BENGALURU TRANSFORMER,Gulbarga,7
+HASSAN LINE,Lingadahalli,2
+HASSAN LINE,Kittadahalli,4
+HASSAN LINE,Shikaripura,2
+TUMKUR LINE,Tumkur,5
+Nelamangala,TUMKUR LINE,2
+Hiriyuru,TUMKUR TRANSFORMER,6
+BAGALKOTE LINE,Vajramatti,11
+BAGALKOTE TRANSFORMER,Sirasi,5
+BENGALURU LINE,Ganjigunte,10
+BENGALURU LINE,Tamaka,7
+BENGALURU LINE,Soladevanahalli,1
+BENGALURU TRANSFORMER,Janawada,1
+HASSAN LINE,Hassan,12
+HASSAN TRANSFORMER,Sargur,1
+Davanagere,TUMKUR LINE,5
+Bandihalli,TUMKUR LINE,4
+Sira,TUMKUR LINE,4
+BENGALURU LINE,Bagmane WTC,3
+BENGALURU LINE,Kolar Sub Station,6
+Anekal,BENGALURU LINE,3
+BENGALURU LINE,Budikote,1
+BENGALURU LINE,Pavagada,1
+BENGALURU TRANSFORMER,Gulbarga West,1
+Gurupura,HASSAN LINE,1
+HASSAN LINE,Karkala,2
+HASSAN LINE,Manipal,12
+HASSAN LINE,Hiriyadka,3
+Challakere,TUMKUR LINE,11
+Pavagada,TUMKUR LINE,1
+Antharasanahalli,TUMKUR TRANSFORMER,1
+BENGALURU LINE,BG Road,4
+Arehalli,BENGALURU LINE,2
+BENGALURU LINE,Subramanyapura Substation,3
+BENGALURU TRANSFORMER,Somasamudra,2
+HASSAN TRANSFORMER,Hunsur,1
+TUMKUR LINE,Vijayapura,1
+Haveri,TUMKUR LINE,2
+Beranahalli,TUMKUR LINE,3
+Nitturu,TUMKUR TRANSFORMER,1
+BAGALKOTE LINE,Basavanakatti,1
+BAGALKOTE LINE,Enercon,1
+Anmod,BAGALKOTE TRANSFORMER,2
+BENGALURU LINE,Maralavadi,1
+BENGALURU LINE,Electronic City Phase 2,1
+HASSAN LINE,Madhuvana,4
+HASSAN TRANSFORMER,Hanagodu,1
+Chelur,TUMKUR LINE,3
+Chitradurga Traction,TUMKUR LINE,6
+Hebburu,TUMKUR LINE,1
+Kalamaranahalli,TUMKUR LINE,2
+Lingadahalli,TUMKUR LINE,4
+Kundur,TUMKUR TRANSFORMER,1
+TUMKUR TRANSFORMER,Tyavaagi,1
+BAGALKOTE TRANSFORMER,Bagalkot,3
+BENGALURU LINE,Platinum City Power Station,2
+BENGALURU LINE,Nelamangala,2
+Doni,TUMKUR LINE,1
+Aigali,BAGALKOTE LINE,3
+BAGALKOTE LINE,Ramadurga,2
+BAGALKOTE LINE,Katarki,2
+BAGALKOTE TRANSFORMER,Mughalkod,1
+BENGALURU LINE,Jayadeva,5
+BENGALURU TRANSFORMER,Venkatagiri,1
+HASSAN LINE,Hanbal,6
+Anandapur,HASSAN LINE,4
+Hanagodu,MYSORE LINE,17
+Hebbani,MYSORE LINE,6
+MYSORE LINE,nan,101
+Kushalnagar,MYSORE LINE,31
+MYSORE LINE,Virajpet,2
+Kadakola,MYSORE LINE,45
+MYSORE TRANSFORMER,nan,105
+Kunigal,TUMKUR LINE,1
+Shimoga,TUMKUR LINE,3
+BAGALKOTE LINE,Hukkeri,1
+BAGALKOTE LINE,Kanagala,4
+BAGALKOTE LINE,Bagalkot,17
+BAGALKOTE LINE,Chikkodi,7
+Attibele,BENGALURU LINE,3
+BENGALURU TRANSFORMER,Latur,1
+Beguru,MYSORE LINE,3
+Gundlupet,MYSORE LINE,1
+MYSORE LINE,Madhuvanahally,6
+Kattige,TUMKUR LINE,9
+BAGALKOTE LINE,Ramankoppa,1
+BAGALKOTE LINE,Sultanpur,4
+BAGALKOTE LINE,Hirekerur,4
+BAGALKOTE TRANSFORMER,Hubli,1
+BENGALURU LINE,Exora,3
+BENGALURU LINE,Godur,1
+BENGALURU TRANSFORMER,Kurugodu,2
+HASSAN LINE,Sagara,17
+HASSAN LINE,Varahi,5
+Hunsur,MYSORE LINE,19
+Halagur,MYSORE LINE,1
+MYSORE LINE,Tubinakere,11
+Nagasamudra,TUMKUR LINE,6
+Hiriyuru,TUMKUR LINE,3
+BENGALURU LINE,Bidadi,1
+BENGALURU LINE,Sira,2
+HASSAN LINE,Soraba,3
+HASSAN LINE,UPCL,4
+MYSORE LINE,Ramapura,1
+Hampapura,MYSORE LINE,3
+Malebennuru,TUMKUR LINE,7
+Guttur New,TUMKUR LINE,6
+Guddadahalli,TUMKUR LINE,1
+KIADB Substation,TUMKUR TRANSFORMER,4
+BAGALKOTE LINE,Kittur,2
+BAGALKOTE LINE,MK Hubli,3
+BAGALKOTE LINE,Ron,3
+BAGALKOTE LINE,Haveri,9
+BENGALURU LINE,Hebbani,1
+Bargur,HASSAN LINE,2
+MYSORE LINE,Uttur,4
+MYSORE LINE,Ponnampet,7
+MYSORE LINE,Talavadi,1
+Hangal,TUMKUR LINE,1
+BAGALKOTE LINE,Sadalaga,1
+BENGALURU LINE,Vikas Tech Park Substation,4
+BENGALURU TRANSFORMER,Kamalapura,1
+Alnavar,BAGALKOTE LINE,1
+BAGALKOTE LINE,Kadra,2
+Athani,BAGALKOTE LINE,5
+BAGALKOTE LINE,Kudachi,7
+BAGALKOTE TRANSFORMER,Kudachi,1
+BAGALKOTE TRANSFORMER,Raibagh,8
+BAGALKOTE TRANSFORMER,Mudhol,3
+Ainapur,BAGALKOTE TRANSFORMER,1
+Hullenahalli,MYSORE LINE,1
+Ankali,BAGALKOTE LINE,1
+BAGALKOTE LINE,Melligeri,2
+BAGALKOTE TRANSFORMER,Khadaklat,1
+BAGALKOTE TRANSFORMER,Halyal,6
+BENGALURU LINE,Mudiyanur,2
+BENGALURU LINE,Chelur,2
+BENGALURU TRANSFORMER,Halbarga,1
+Ramagiri Sub Station,TUMKUR LINE,6
+BAGALKOTE LINE,Sirasi,24
+BAGALKOTE LINE,Hattaragi,1
+BAGALKOTE LINE,Lokapur,1
+Annigeri,BAGALKOTE LINE,4
+BAGALKOTE LINE,Navalgund,3
+BAGALKOTE LINE,Bilagi,2
+BAGALKOTE LINE,Kavalwad,4
+BAGALKOTE LINE,Hirehala,1
+BAGALKOTE LINE,Navalagi,5
+BAGALKOTE LINE,Kiravatti,3
+BAGALKOTE LINE,Naganur,3
+BAGALKOTE TRANSFORMER,Bilagi,3
+BAGALKOTE TRANSFORMER,Kaladagi,3
+BAGALKOTE TRANSFORMER,Talikoti,3
+BAGALKOTE TRANSFORMER,Hirekerur,5
+BAGALKOTE TRANSFORMER,Shiggaon Sub Station,3
+BAGALKOTE TRANSFORMER,Gokak,1
+BAGALKOTE TRANSFORMER,Vadgaon,1
+Athani,BAGALKOTE TRANSFORMER,1
+BAGALKOTE TRANSFORMER,Ghataprabha,2
+Bettadapura,MYSORE LINE,2
+MYSORE LINE,Periyapatna,4
+MYSORE LINE,Nagamangala,6
+Attigere,TUMKUR LINE,2
+Bargur,TUMKUR LINE,1
+Honnalli,TUMKUR TRANSFORMER,3
+Davanagere,TUMKUR TRANSFORMER,5
+Anmod,BAGALKOTE LINE,4
+BAGALKOTE LINE,Konnur,3
+BAGALKOTE LINE,Terdal,1
+BAGALKOTE TRANSFORMER,Gadag,5
+BAGALKOTE TRANSFORMER,Ranebennuru,2
+BAGALKOTE TRANSFORMER,Kagwad,1
+BAGALKOTE TRANSFORMER,Bijapur City,5
+BAGALKOTE TRANSFORMER,Shiggoan,1
+BENGALURU LINE,Magadi,5
+BENGALURU TRANSFORMER,Hiresindhogi,1
+HASSAN LINE,Mudigere,5
+Belur,HASSAN LINE,2
+HASSAN LINE,Honnalli,1
+HASSAN LINE,Shimoga,3
+Bylakuppe,MYSORE LINE,1
+MYSORE LINE,Vajamangala,3
+MYSORE TRANSFORMER,Periyapatna,2
+Kushalnagar,MYSORE TRANSFORMER,1
+Bhaktarahalli,TUMKUR LINE,2
+Hanagal,TUMKUR LINE,1
+Mathodu,TUMKUR TRANSFORMER,1
+Ramapura,TUMKUR TRANSFORMER,1
+BAGALKOTE LINE,Hudali,5
+BAGALKOTE LINE,Umachagi,2
+Alabal,BAGALKOTE LINE,4
+Ankola,BAGALKOTE LINE,1
+BAGALKOTE LINE,Laxmeshwar,1
+BAGALKOTE LINE,Yallammanawadi,3
+BAGALKOTE TRANSFORMER,Hudali,2
+BAGALKOTE TRANSFORMER,Laxmeshwar,5
+BAGALKOTE TRANSFORMER,Ron,1
+BAGALKOTE TRANSFORMER,Navalagi,3
+Aremallapur,BAGALKOTE TRANSFORMER,1
+HASSAN LINE,Salagame,3
+HASSAN TRANSFORMER,Sagara,2
+Narendra,TUMKUR LINE,1
+BAGALKOTE LINE,Shiggaon Sub Station,1
+BAGALKOTE LINE,Talikoti,1
+BAGALKOTE TRANSFORMER,Mundaragi,1
+Arehalli,HASSAN LINE,1
+Hosur Gate,MYSORE LINE,1
+Kanagala,MYSORE LINE,1
+MYSORE LINE,Panniyadhundai,2
+Enercon,TUMKUR LINE,1
+Kallur,TUMKUR LINE,1
+BAGALKOTE LINE,Mundaragi,1
+BAGALKOTE LINE,Hiremural,1
+BAGALKOTE LINE,Indi,3
+Aheri,BAGALKOTE LINE,3
+BAGALKOTE LINE,Balligavi,1
+Atharga,BAGALKOTE TRANSFORMER,1
+BAGALKOTE TRANSFORMER,Hangal,2
+BAGALKOTE TRANSFORMER,Munavalli,3
+HASSAN TRANSFORMER,Hassan,1
+Bidarekere,TUMKUR LINE,3
+Kudligi,TUMKUR LINE,1
+220kV SADAWAGHAPUR (Wind),TUMKUR LINE,1
+BAGALKOTE LINE,Daddi,2
+Nitturu,TUMKUR LINE,1
+Alagur,BAGALKOTE LINE,1
+BAGALKOTE LINE,Raibagh,2
+BAGALKOTE LINE,Savalagi,1
+BAGALKOTE LINE,Guddadahalli,1
+BAGALKOTE TRANSFORMER,Bidi,1
+BAGALKOTE TRANSFORMER,Hattaragi,4
+BAGALKOTE TRANSFORMER,Singatalur,7
+BAGALKOTE TRANSFORMER,Murdeswara,1
+BENGALURU LINE,Mathikere,1
+BENGALURU LINE,MEI Layout,1
+MYSORE LINE,PG Palya,2
+Mathodu,TUMKUR LINE,3
+Antharasanahalli,TUMKUR LINE,1
+BAGALKOTE LINE,Malghan,1
+BAGALKOTE LINE,Mukarthihal,1
+BAGALKOTE LINE,Guttal,1
+Koppa,MYSORE LINE,2
+BAGALKOTE LINE,Devaragennur,2
+BAGALKOTE LINE,Tarihal,1
+BAGALKOTE LINE,Belgaum,1
+BAGALKOTE TRANSFORMER,Todalbagi,1
+BENGALURU TRANSFORMER,Humnabad,1
+MYSORE LINE,Meghalapura,1
+BAGALKOTE LINE,Uttur,1
+BAGALKOTE TRANSFORMER,Mukarthihal,3
+BAGALKOTE TRANSFORMER,Kadanakoppa,1
+MYSORE LINE,Yelanduru,5
+BAGALKOTE LINE,Mudhol,1
+BAGALKOTE TRANSFORMER,Hanagal,2
+BENGALURU LINE,Golf Links Substation,1
+BENGALURU LINE,ITI,1
+BAGALKOTE LINE,Honaga,1
+BAGALKOTE LINE,Machhe,1
+BAGALKOTE TRANSFORMER,Sankeshwara,1
+BAGALKOTE TRANSFORMER,Kalaghatagi,1
+BAGALKOTE TRANSFORMER,Tuminakatte,1
+Aurad,BENGALURU TRANSFORMER,1
+MYSORE LINE,Taripura,1
+Balenahalli,TUMKUR LINE,1
+Honnavalli,TUMKUR LINE,1
+Bukkapattana,TUMKUR TRANSFORMER,1
+Kunigal,TUMKUR TRANSFORMER,1
+BAGALKOTE LINE,Gajendragad,2
+BAGALKOTE LINE,Muddebihal,1
+BAGALKOTE LINE,Koppal,1
+BENGALURU TRANSFORMER,Mallat,1
+MYSORE LINE,Vijayapura,1
+Hadavanahalli,TUMKUR LINE,1
+Honnali,TUMKUR LINE,1
+Hangal,TUMKUR TRANSFORMER,1
+Aigali,BAGALKOTE,42
+BAGALKOTE,Gopankoppa,49
+BAGALKOTE,Udyambag,69
+BENGALURU,nan,2387
+BENGALURU,Vidyanagar,21
+BENGALURU,Maralavadi,5
+BENGALURU,Gulbarga,13
+BENGALURU,Ganjigunte,10
+BENGALURU,Sovenahalli,5
+BENGALURU,Bangarapete,7
+BENGALURU,Suzlon Kurugodu,1
+HASSAN,Maddur,1
+BAGALKOTE,Uttur,15
+BENGALURU,Bagmane WTC,6
+BENGALURU,HMT,1
+BENGALURU,Mathikere,2
+BENGALURU,BG Road,9
+BENGALURU,Mudiyanur,4
+BENGALURU,HAL Substation,2
+Bommalapura,HASSAN,3
+BAGALKOTE,Navanagara,15
+BAGALKOTE,Enercon,5
+BENGALURU,Golf Links Substation,12
+BENGALURU,Magadi,5
+BENGALURU,Budigere,6
+BENGALURU,Subramanyapura Substation,5
+BAGALKOTE,Belur,6
+BENGALURU,Karajagi,1
+HASSAN,Kittur,1
+BAGALKOTE,Hirebevanura,13
+BENGALURU,Gudibanda,1
+BENGALURU,Jayadeva,4
+Arehalli,BENGALURU,3
+BENGALURU,Srinivaspura,1
+HASSAN,Hampapura,1
+BAGALKOTE,Tuminakatte,1
+BENGALURU,Chowdapur,1
+BAGALKOTE,Kanbargi,16
+BAGALKOTE,Shiggaon Sub Station,4
+BENGALURU,ITI,4
+Attibele,BENGALURU,18
+BAGALKOTE,Gokak,20
+BAGALKOTE,Betageri,7
+BENGALURU,Chelur,3
+BENGALURU,Giriyapura,2
+BAGALKOTE,Bisnal,12
+BENGALURU,Godur,2
+BENGALURU,REMCO,9
+BENGALURU,Mulbagal,4
+HASSAN,Heggunje,9
+BAGALKOTE,Murdeswara,16
+BENGALURU,Kolar Sub Station,6
+BENGALURU,Gudekote,1
+BAGALKOTE,Satti,2
+BENGALURU,Bhoruka,3
+BENGALURU,Hoskote,9
+BENGALURU,Bellary North,1
+BENGALURU,Banashankari,1
+BENGALURU,Somanahalli Substation,8
+BENGALURU,Mallat,1
+BAGALKOTE,Kushtagi,8
+BAGALKOTE,Shirabur,1
+BAGALKOTE,Belavanki,1
+BAGALKOTE,Ronihal,3
+BENGALURU,Dibburahalli,2
+BENGALURU,Vikas Tech Park Substation,6
+BENGALURU,Hassan,3
+BENGALURU,Platinum City Power Station,5
+Gudekote,TUMKUR,8
+Kundur,TUMKUR,12
+BENGALURU,Ramapura,1
+BENGALURU,Raichur,1
+Attigere,TUMKUR,4
+Chikkanayakanahalli,TUMKUR,4
+Doni,TUMKUR,1
+Avanti,BAGALKOTE,1
+BENGALURU,Koppal,1
+BAGALKOTE,Yallammanawadi,2
+BENGALURU,Manyata,7
+Abbigere,BENGALURU,5
+Aurad,BENGALURU,1
+HASSAN,Togarshi,1
+BAGALKOTE,Mareguddi,1
+BAGALKOTE,Nidagundi,3
+BAGALKOTE,Saidapur,2
+BAGALKOTE,Hidakal,7
+BAGALKOTE,Satish Sugars,1
+BENGALURU,Hebbal Substation,6
+BENGALURU,Hosur,4
+BENGALURU,Korwar Temple,1
+Honnavalli,TUMKUR,5
+BAGALKOTE,Bidi,13
+BENGALURU,Budikote,3
+Austin Town Substation,BENGALURU,1
+BENGALURU,Renew Solar,2
+HASSAN,Mattanavile,16
+BAGALKOTE,Khadaklat,22
+Anekal,BENGALURU,13
+Nitturu,TUMKUR,8
+BAGALKOTE,Sultanpur,21
+BENGALURU,Humnabad,1
+BAGALKOTE,Koppal,5
+GULBARGA,Korwar Temple,6
+Bhalki,GULBARGA,8
+BAGALKOTE,Siddapura,3
+GULBARGA,Mandewal,6
+Bharangi,HASSAN,1
+Bukkapattana,TUMKUR,4
+Nelamangala,TUMKUR,4
+BAGALKOTE,Mundagoda,10
+BAGALKOTE,Ramadurga,5
+BAGALKOTE,Saundatti,29
+Bennur,GULBARGA,12
+BAGALKOTE,Vadgaon,5
+Aheri,GULBARGA,4
+GULBARGA,Siruguppa,10
+GULBARGA,Suzlon,4
+MYSORE,Ramapura,3
+BAGALKOTE,Supa,2
+Anmod,BAGALKOTE,4
+Chowdapur,GULBARGA,6
+GULBARGA,Kamalnagar,3
+Afzalpur,BAGALKOTE,2
+GULBARGA,Karajagi,5
+GULBARGA,Madyal,2
+BAGALKOTE,Khanapur,3
+BAGALKOTE,Naganur,3
+BAGALKOTE,Basavanakatti,15
+GULBARGA,Sovenahalli,4
+GULBARGA,Janawada,2
+Anandapur,HASSAN,6
+BAGALKOTE,Jambagi KD,1
+BAGALKOTE,Katarki,2
+Avanti,BANGALORE,32
+MYSORE,Talavadi,6
+BANGALORE,BEL,6
+GULBARGA,Santhpur,2
+Chamarajanagara,MYSORE,1
+Dubalgundi,GULBARGA,1
+GULBARGA,Jewargi,3
+GULBARGA,South Solapur,1
+BAGALKOTE,Kavatagi LIS,4
+Kadaba,TUMKUR,4
+BANGALORE,Bhoruka,3
+GULBARGA,Gangavathi Sub Station,2
+HASSAN,PG Palya,3
+HASSAN,Yelanduru,1
+GULBARGA,Somasamudra,1
+HASSAN,Moodabidre,5
+GULBARGA,Valkamdinni,1
+HASSAN,Sindhuvallipura,1
+BAGALKOTE,Masuti,1
+HASSAN,Koppa,1
+BANGALORE,Ramapura,3
+Enercon,TUMKUR,2
+GULBARGA,Gulbarga South,1
+BAGALKOTE,Jamkhandi Sugars,7
+BANGALORE,Chokkasandra,1
+C.R.Patna,MYSORE,1
+Gubbi,TUMKUR,5
+GULBARGA,Giriyapura,10
+BAGALKOTE,Shirgaon,1
+BAGALKOTE,Savalagi,1
+BANGALORE,Nelamangala,7
+BAGALKOTE,Suzlon,3
+GULBARGA,Halavarti,3
+GULBARGA,Kavital,1
+GULBARGA,Mallapur MHS,2
+Bhoruka,GULBARGA,3
+BAGALKOT,Bailahongala,5
+BAGALKOT,LIS,31
+BAGALKOT,Hangal,9
+BAGALKOT,Salahalli,10
+BAGALKOT,Savanur,18
+BAGALKOT,Tuminakatte,4
+BAGALKOT,Rabkavi,3
+BAGALKOT,Jindal,5
+Akhilagya Solar,BAGALKOT,1
+BAGALKOT,Katarki,2
+BAGALKOT,Kavatagi LIS,3
+Athani Sugars,BAGALKOT,1
+BAGALKOT,Girisagar,1
+BAGALKOT,Shirabur,1
+BAGALKOT,Manthur,1
+BAGALKOT,Saidapur,2
+BAGALKOT,Honaga,2
+BENGALURU,Mahalakshmi Layout,2
+BENGALURU,Brindavan,4
+BENGALURU,Tubinakere,20
+BENGALURU,Vajamangala,13
+BENGALURU,Bidadi,9
+BENGALURU,Talaguppa,3
+BENGALURU,Pathapalya,2
+BENGALURU,Hebbani,14
+BENGALURU,Soladevanahalli,2
+BEL,BENGALURU,2
+BENGALURU,Hoody Traction,1
+BENGALURU,Madhugiri,1
+Adugodi Substation,BENGALURU,3
+BENGALURU,Electronic City Phase 2,2
+BENGALURU,Padmanabha Nagar Substation,5
+BENGALURU,Sira,3
+BENGALURU,Jadigenahalli,3
+BENGALURU,Gokula,3
+BENGALURU,Pottery Road,1
+BENGALURU,Tamaka,5
+BENGALURU,Pavagada,4
+BENGALURU,Mittemari,2
+BENGALURU,Channapatna,1
+BENGALURU,Kumbalagodu,2
+BENGALURU,Iggaluru,1
+MYSORE,Sindhuvallipura,2
+Kampalapura,MYSORE,2
+MYSORE,Vijayapura,3
+MYSORE,Shahabad,1
+Gerusoppa,HASSAN,1
+Guruvayanakere,HASSAN,2
+HASSAN,Yagathi,1
+HASSAN,Lingadahalli,2
+Essur,HASSAN,1
+Alagur,BAGALKOT,7
+BAGALKOT,Gopankoppa,31
+BANGALORE,SRS Peenya Substation,5
+BANGALORE,Harohalli,1
+BANGALORE,Koramangala Substation,10
+BANGALORE,Nangali,1
+BANGALORE,Yelahanka,6
+BANGALORE,Victoria Hospital Substation,2
+BANGALORE,KHB Yelahanka,1
+BANGALORE,Malur Substation,19
+GULBARGA,Hangal,4
+Halkurike,TUMKUR,1
+BANGALORE,Ramanagara,5
+BAGALKOT,Hiremural,1
+BANGALORE,HAL Substation,6
+BANGALORE,Hoody Traction,12
+BANGALORE,K&C Valley Substation,2
+BANGALORE,RMV Layout,3
+BANGALORE,Jigani Substation,6
+BANGALORE,Khodays Glass Factory Substation,7
+BANGALORE,Kondaspura,3
+BANGALORE,Hullenahalli,3
+BANGALORE,Vijayapura,3
+BANGALORE,Kuduru,1
+BANGALORE,Chintamani Substation,27
+BANGALORE,Srinivaspura,5
+BANGALORE,Vijaynagar Sugars,1
+BANGALORE,HSR Layout Substation,4
+BANGALORE,NRS Substation (Rajajinagar),6
+Bharangi,MYSORE,1
+BANGALORE,ISRO Layout Substation,2
+BANGALORE,NIMHANS Substation,5
+BAGALKOT,Bisnal,3
+BANGALORE,IISc MUSS,3
+Aremallapur,BAGALKOT,2
+BANGALORE,St Johns Wood Substation,1
+BANGALORE,Telecom Layout Substation,2
+BANGALORE,VIdyanagara Substation,1
+GULBARGA,Suzlon Kurugodu,1
+BANGALORE,Narsapur,2
+BANGALORE,Jayanagar Substation,4
+HASSAN,Sanda,5
+Allipura,BANGALORE,1
+Doni,GULBARGA,1
+BANGALORE,BIAL Begur Substation,1
+BAGALKOT,Naganur,4
+Mittemari,nan,2
+BAGALKOT,Sharavathi,3
+BANGALORE,Exora,7
+BAGALKOT,Gem Sugars,1
+BAGALKOT,Guddadahalli,3
+BANGALORE,Mylasandra Substation,1
+GULBARGA,Rajeshwar,1
+BAGALKOT,Dhulked,1
+BANGALORE,Sidlaghatta,2
+BANGALORE,Brigade Tech Gardens Brookefield,1
+Jagaluru,TUMKUR,1
+BANGALORE,Giriyapura,3
+Chandra Layout,HASSAN,1
+HASSAN,Nitturu,1
+Bargur,TUMKUR,4
+BAGALKOTE,KIADB Gamanagatti,1
+BAGALKOTE,LIS,6
+BANGALORE,Dubalgundi,3
+BAGALKOTE,Kakamari,1
+HASSAN,Harave,1
+BANGALORE,Nitturu,3
+HASSAN,Ponnampet,1
+BANGALORE,Bhalki,1
+MYSORE,Seelanere,3
+Shettikere,TUMKUR,2
+BANGALORE,Chakavelu,1
+BANGALORE,Kadaganchii,1
+BAGALKOTE,Manthur,5
+Bajpe,HASSAN,1
+BANGALORE,Hampasagara,1
+BANGALORE,Madhugiri,2
+BANGALORE,MEI Layout,2
+BAGALKOTE,Mundaganura,1
+BANGALORE,Bellary North,2
+BANGALORE,Cleanmax,1
+BANGALORE,Surya City,2
+Atria,HASSAN,1
+HASSAN,Taripura,1
+Santhemavatturu,TUMKUR,1
+BANGALORE,Suzlon,1
+MYSORE,Narayanpur,1
+BANGALORE,Renew,1
+Bandihalli,nan,1
+Honnalli,nan,2
+Benkikere,nan,3
+Davanagere,nan,1
+Kattige,nan,5
+Sira,nan,1
+Malebennuru,nan,1
+Tiptur,nan,1
+Huliyar,nan,3
+MYSORE,Mattikere,1
+Hosakere,nan,1
+BAGALKOT,Kotabagi LIS,1
+BAGALKOT,Kittur,2
+Aques,BAGALKOT,1
+BANGALORE,Kyasamballa,1

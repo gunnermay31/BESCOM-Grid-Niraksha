@@ -1,0 +1,34 @@
+{
+  "fetched_at": "2026-05-07T23:44:36.839118",
+  "snapshot": {
+    "timestamp": "07/05/2026 23:35",
+    "escom_loads": {
+      "BESCOM": {
+        "schedule_mw": "5616",
+        "actual_mw": "6271",
+        "ui": "656"
+      },
+      "MESCOM": {
+        "schedule_mw": "1122",
+        "actual_mw": "1171",
+        "ui": "52"
+      },
+      "CESC": {
+        "schedule_mw": "1131",
+        "actual_mw": "1473",
+        "ui": "339"
+      },
+      "GESCOM": {
+        "schedule_mw": "1460",
+        "actual_mw": "850",
+        "ui": "-613"
+      },
+      "HESCOM": {
+        "schedule_mw": "2334",
+        "actual_mw": "2245",
+        "ui": "-93"
+      }
+    }
+  },
+  "stations_220kv": {}
+}

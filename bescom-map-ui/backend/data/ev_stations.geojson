@@ -1,0 +1,1034 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6408,
+          12.9784
+        ]
+      },
+      "properties": {
+        "id": "ev_known_0",
+        "name": "Ather Grid - Indiranagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9784,
+        "lon": 77.6408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6245,
+          12.9352
+        ]
+      },
+      "properties": {
+        "id": "ev_known_1",
+        "name": "Ather Grid - Koramangala",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9352,
+        "lon": 77.6245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6389,
+          12.9116
+        ]
+      },
+      "properties": {
+        "id": "ev_known_2",
+        "name": "Ather Grid - HSR Layout",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9116,
+        "lon": 77.6389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          12.9698
+        ]
+      },
+      "properties": {
+        "id": "ev_known_3",
+        "name": "Ather Grid - Whitefield",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9698,
+        "lon": 77.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5838,
+          12.925
+        ]
+      },
+      "properties": {
+        "id": "ev_known_4",
+        "name": "Ather Grid - Jayanagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.925,
+        "lon": 77.5838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.565,
+          13.0035
+        ]
+      },
+      "properties": {
+        "id": "ev_known_5",
+        "name": "Ather Grid - Malleshwaram",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.0035,
+        "lon": 77.565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6603,
+          12.8456
+        ]
+      },
+      "properties": {
+        "id": "ev_known_6",
+        "name": "Ather Grid - Electronic City",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.8456,
+        "lon": 77.6603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.598,
+          12.888
+        ]
+      },
+      "properties": {
+        "id": "ev_known_7",
+        "name": "Ather Grid - Bannerghatta Rd",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.888,
+        "lon": 77.598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6011,
+          12.9857
+        ]
+      },
+      "properties": {
+        "id": "ev_known_8",
+        "name": "BESCOM EV Hub - Shivajinagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BESCOM",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9857,
+        "lon": 77.6011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5913,
+          12.9793
+        ]
+      },
+      "properties": {
+        "id": "ev_known_9",
+        "name": "BESCOM EV Hub - Vidhana Soudha",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BESCOM",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9793,
+        "lon": 77.5913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.554,
+          13.011
+        ]
+      },
+      "properties": {
+        "id": "ev_known_10",
+        "name": "Tata Power - Orion Mall",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Tata Power",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.011,
+        "lon": 77.554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6967,
+          12.9956
+        ]
+      },
+      "properties": {
+        "id": "ev_known_11",
+        "name": "Tata Power - Phoenix Mall",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Tata Power",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9956,
+        "lon": 77.6967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.57,
+          12.991
+        ]
+      },
+      "properties": {
+        "id": "ev_known_12",
+        "name": "Tata Power - Mantri Mall",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Tata Power",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.991,
+        "lon": 77.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.605,
+          12.9758
+        ]
+      },
+      "properties": {
+        "id": "ev_known_13",
+        "name": "BPCL - MG Road",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BPCL",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9758,
+        "lon": 77.605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68,
+          12.934
+        ]
+      },
+      "properties": {
+        "id": "ev_known_14",
+        "name": "HPCL - Outer Ring Rd",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "HPCL",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.934,
+        "lon": 77.68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.626,
+          12.914
+        ]
+      },
+      "properties": {
+        "id": "ev_known_15",
+        "name": "IOCL - Hosur Rd",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "IOCL",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.914,
+        "lon": 77.626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.683,
+          12.925
+        ]
+      },
+      "properties": {
+        "id": "ev_known_16",
+        "name": "ChargeZone - Embassy TechVillage",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "ChargeZone",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.925,
+        "lon": 77.683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.617,
+          13.0465
+        ]
+      },
+      "properties": {
+        "id": "ev_known_17",
+        "name": "ChargeZone - Manyata Tech Park",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "ChargeZone",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.0465,
+        "lon": 77.617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.694,
+          13.0053
+        ]
+      },
+      "properties": {
+        "id": "ev_known_18",
+        "name": "Statiq - KR Puram",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 30,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Statiq",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.0053,
+        "lon": 77.694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7861,
+          12.8601
+        ]
+      },
+      "properties": {
+        "id": "ev_known_19",
+        "name": "Statiq - Sarjapura",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 30,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Statiq",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.8601,
+        "lon": 77.7861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5963,
+          13.1007
+        ]
+      },
+      "properties": {
+        "id": "ev_known_20",
+        "name": "Kazam - Yelahanka",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 22,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Kazam",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.1007,
+        "lon": 77.5963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5919,
+          13.0382
+        ]
+      },
+      "properties": {
+        "id": "ev_known_21",
+        "name": "Kazam - Hebbal",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 22,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Kazam",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.0382,
+        "lon": 77.5919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.605,
+          13.075
+        ]
+      },
+      "properties": {
+        "id": "ev_known_22",
+        "name": "Shell Recharge - Airport Rd",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Shell Recharge",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.075,
+        "lon": 77.605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.52,
+          13.03
+        ]
+      },
+      "properties": {
+        "id": "ev_known_23",
+        "name": "Fortum Charge - Peenya",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Fortum",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.03,
+        "lon": 77.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.585,
+          12.895
+        ]
+      },
+      "properties": {
+        "id": "ev_known_24",
+        "name": "Glida - JP Nagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 30,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Glida",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.895,
+        "lon": 77.585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.701,
+          12.956
+        ]
+      },
+      "properties": {
+        "id": "ev_known_25",
+        "name": "Glida - Marathahalli",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 30,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Glida",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.956,
+        "lon": 77.701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.623,
+          12.917
+        ]
+      },
+      "properties": {
+        "id": "ev_known_26",
+        "name": "BESCOM DC Fast - Silk Board",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 6,
+        "max_power_kw": 120,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BESCOM",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.917,
+        "lon": 77.623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573,
+          12.976
+        ]
+      },
+      "properties": {
+        "id": "ev_known_27",
+        "name": "BESCOM DC Fast - KR Circle",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 6,
+        "max_power_kw": 120,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BESCOM",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.976,
+        "lon": 77.573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.552,
+          12.99
+        ]
+      },
+      "properties": {
+        "id": "ev_known_28",
+        "name": "Ather Grid - Rajajinagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.99,
+        "lon": 77.552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.596,
+          13.101
+        ]
+      },
+      "properties": {
+        "id": "ev_known_29",
+        "name": "Ather Grid - Yelahanka",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 7.4,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Ather Energy",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.101,
+        "lon": 77.596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.611,
+          12.934
+        ]
+      },
+      "properties": {
+        "id": "ev_known_30",
+        "name": "Tata Power - Forum Mall",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Tata Power",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.934,
+        "lon": 77.611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.509,
+          12.95
+        ]
+      },
+      "properties": {
+        "id": "ev_known_31",
+        "name": "BPCL - Mysore Road",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BPCL",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.95,
+        "lon": 77.509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.507,
+          13.052
+        ]
+      },
+      "properties": {
+        "id": "ev_known_32",
+        "name": "HPCL - Tumkur Road",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "HPCL",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.052,
+        "lon": 77.507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.61,
+          12.9135
+        ]
+      },
+      "properties": {
+        "id": "ev_known_33",
+        "name": "Zeon Charging - BTM Layout",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Zeon",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9135,
+        "lon": 77.61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.592,
+          13.045
+        ]
+      },
+      "properties": {
+        "id": "ev_known_34",
+        "name": "Zeon Charging - Hebbal Flyover",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 3,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Zeon",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.045,
+        "lon": 77.592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6408,
+          12.9784
+        ]
+      },
+      "properties": {
+        "id": "ev_known_35",
+        "name": "Revolt Motors - Indiranagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 15,
+        "connector_types": [
+          "Type 2"
+        ],
+        "operator": "Revolt",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.9784,
+        "lon": 77.6408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.546,
+          12.925
+        ]
+      },
+      "properties": {
+        "id": "ev_known_36",
+        "name": "EV Motors - Banashankari",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 22,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "EV Motors",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.925,
+        "lon": 77.546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.505,
+          12.926
+        ]
+      },
+      "properties": {
+        "id": "ev_known_37",
+        "name": "Go-EC - RR Nagar",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 2,
+        "max_power_kw": 30,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "Go-EC",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.926,
+        "lon": 77.505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.677,
+          12.926
+        ]
+      },
+      "properties": {
+        "id": "ev_known_38",
+        "name": "BluSmart Hub - Bellandur",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 8,
+        "max_power_kw": 50,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "BluSmart",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 12.926,
+        "lon": 77.677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.713,
+          13.249
+        ]
+      },
+      "properties": {
+        "id": "ev_known_39",
+        "name": "Charge+Zone - Devanahalli",
+        "address": "Bengaluru, Karnataka",
+        "chargers": 4,
+        "max_power_kw": 60,
+        "connector_types": [
+          "CCS2",
+          "Type 2"
+        ],
+        "operator": "ChargeZone",
+        "status": "Operational",
+        "type": "ev_station",
+        "lat": 13.249,
+        "lon": 77.713
+      }
+    }
+  ]
+}
