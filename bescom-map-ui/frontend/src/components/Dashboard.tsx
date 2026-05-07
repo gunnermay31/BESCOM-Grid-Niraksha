@@ -111,6 +111,7 @@ export default function Dashboard() {
   const [nodeData,     setNodeData]     = useState<any>(null);
   const [nodeLoading,  setNodeLoading]  = useState(false);
   const [selectedNode, setSelectedNode] = useState<string|null>(null);
+  const [simStress,    setSimStress]    = useState(false);
 
   useEffect(() => {
     Promise.all([
@@ -157,10 +158,11 @@ export default function Dashboard() {
     setRefreshing(false);
   };
 
-  const bl    = kptcl?.snapshot?.escom_loads?.BESCOM;
+  const rawBl = kptcl?.snapshot?.escom_loads?.BESCOM;
+  const bl    = simStress ? { actual_mw: 7485, schedule_mw: 6600, ui: "+885" } : rawBl;
   const ui    = parseInt(bl?.ui||"0");
-  const freq  = 50.06;
-  const gridOk = Math.abs(ui) < 300;
+  const freq  = simStress ? 49.82 : 50.06;
+  const gridOk = simStress ? false : Math.abs(ui) < 300;
 
   const totalSubs  = subs?.features.length  || 0;
   const totalEvs   = evs?.features.length   || 0;
@@ -179,8 +181,8 @@ export default function Dashboard() {
     <div style={{ display:"flex", flexDirection:"column", width:"100vw", height:"100vh", background:C.bg, color:C.text, fontFamily:"'Inter',sans-serif", overflow:"hidden" }}>
 
       {/* ══ TOP BAR ══ */}
-      <header style={{ display:"flex", alignItems:"center", padding:"0 18px", height:50, borderBottom:`1px solid ${C.border}`, background:C.panel, flexShrink:0, gap:24 }}>
-        <div style={{ fontWeight:700, fontSize:16, display:"flex", alignItems:"center", gap:8, marginRight:8 }}>
+      <header style={{ display:"flex", alignItems:"center", padding:"0 18px", height:50, borderBottom:`1px solid ${simStress ? C.red : C.border}`, background: simStress ? 'rgba(239,68,68,0.1)' : C.panel, flexShrink:0, gap:24, transition:"all 0.3s" }}>
+        <div style={{ fontWeight:700, fontSize:16, display:"flex", alignItems:"center", gap:8, marginRight:8, animation: simStress ? "pulseRed 1.5s infinite" : "none" }}>
           <span>⚡</span><span>BESCOM Grid Niraksha</span>
           <span style={{ fontSize:10, color:C.muted, fontWeight:400 }}>· Bengaluru EV Decision Support</span>
         </div>
@@ -199,7 +201,10 @@ export default function Dashboard() {
           </div>
         ))}
         <div style={{ marginLeft:"auto", display:"flex", gap:8, alignItems:"center" }}>
-          <span style={{ fontSize:10, color:C.muted }}>{kptcl?.snapshot?.timestamp || "Loading…"}</span>
+          <button onClick={()=>setSimStress(!simStress)} style={{ background: simStress ? C.red : "rgba(239,68,68,0.1)", border:`1px solid ${simStress ? C.red : "rgba(239,68,68,0.3)"}`, borderRadius:6, padding:"4px 12px", color:simStress?"#fff":C.red, fontSize:11, cursor:"pointer", fontWeight:600, transition:"all 0.3s", animation: simStress ? "pulseRed 1.5s infinite" : "none" }}>
+            {simStress ? "🛑 END STRESS SIMULATION" : "🚨 SIMULATE PEAK STRESS"}
+          </button>
+          <span style={{ fontSize:10, color:C.muted, marginLeft:8 }}>{kptcl?.snapshot?.timestamp || "Loading…"}</span>
           <button onClick={refresh} style={{ background:C.accent, border:"none", borderRadius:6, padding:"4px 12px", color:"#fff", fontSize:12, cursor:"pointer" }}>
             {refreshing ? "↻…" : "↻ Refresh"}
           </button>
@@ -272,8 +277,8 @@ export default function Dashboard() {
             nearest={nearest} selectedEv={selectedEv}
           />
           {/* map overlay badge */}
-          <div style={{ position:"absolute", top:10, left:"50%", transform:"translateX(-50%)", zIndex:999, background:"rgba(11,22,40,0.85)", border:`1px solid ${C.border}`, borderRadius:20, padding:"4px 14px", fontSize:11, color:C.muted, backdropFilter:"blur(8px)" }}>
-            🗺 Bengaluru Grid Infrastructure Map
+          <div style={{ position:"absolute", top:10, left:"50%", transform:"translateX(-50%)", zIndex:999, background: simStress ? "rgba(239,68,68,0.9)" : "rgba(11,22,40,0.85)", border:`1px solid ${simStress ? C.red : C.border}`, borderRadius:20, padding:"4px 14px", fontSize:11, color: simStress ? "#fff" : C.muted, backdropFilter:"blur(8px)", fontWeight: simStress ? 700 : 400, transition:"all 0.3s", boxShadow: simStress ? "0 0 15px rgba(239,68,68,0.5)" : "none" }}>
+            {simStress ? "🚨 CRITICAL GRID EVENT: LOAD SHEDDING IMMINENT" : "🗺 Bengaluru Grid Infrastructure Map"}
           </div>
         </div>
 
@@ -500,6 +505,7 @@ export default function Dashboard() {
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
         @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes pulseRed { 0% { box-shadow: 0 0 0 0 rgba(239,68,68,0.4); } 70% { box-shadow: 0 0 0 6px rgba(239,68,68,0); } 100% { box-shadow: 0 0 0 0 rgba(239,68,68,0); } }
         ::-webkit-scrollbar { width: 5px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: rgba(99,179,255,0.2); border-radius: 3px; }
