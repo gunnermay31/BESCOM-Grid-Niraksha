@@ -9,7 +9,7 @@ const MapCore = dynamic(() => import("./MapCore"), { ssr: false, loading: () => 
   </div>
 )});
 
-const API = "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
 
 const TILES: Record<string, string> = {
   Satellite: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",

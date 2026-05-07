@@ -8,7 +8,8 @@ app = FastAPI(title="BESCOM Grid Niraksha — Gateway API")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
-ML_API   = "http://localhost:8001"   # ML backend (app.py)
+import os
+ML_API   = os.getenv("ML_API", "http://localhost:8001")   # ML backend (app.py)
 
 # ── helpers ──────────────────────────────────────────────────────────────────
 def load_geojson(f):
