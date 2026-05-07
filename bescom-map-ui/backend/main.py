@@ -277,8 +277,8 @@ async def demand_zones():
         pri    = "🔴 Critical" if score > 75 else "🟠 High" if score > 55 else "🟡 Medium" if score > 35 else "🟢 Low"
         lat    = n.get("lat")
         lon    = n.get("lon")
-        # Only include Bengaluru-area zones (lat 12.4-13.3, lon 77.0-78.0)
-        if not lat or not lon or not (12.4 < float(lat) < 13.3 and 77.0 < float(lon) < 78.0):
+        # Only include Bengaluru Urban zones (lat 12.75-13.15, lon 77.45-77.80)
+        if not lat or not lon or not (12.75 < float(lat) < 13.15 and 77.45 < float(lon) < 77.80):
             continue
         zones.append({
             "zone": str(n.get("zone_key", "Unknown")),
@@ -315,12 +315,12 @@ async def location_recommendations(limit: int = Query(default=10, ge=1, le=50)):
     except Exception:
         rows = []
 
-    # Filter strictly for Bengaluru area (lat 12.4-13.3, lon 77.0-78.0)
+    # Filter strictly for Bengaluru Urban area (lat 12.75-13.15, lon 77.45-77.80)
     filtered_rows = []
     for r in rows:
         lat = r.get("lat")
         lon = r.get("lon")
-        if lat and lon and (12.4 < float(lat) < 13.3 and 77.0 < float(lon) < 78.0):
+        if lat and lon and (12.75 < float(lat) < 13.15 and 77.45 < float(lon) < 77.80):
             filtered_rows.append(r)
 
     recs = []
