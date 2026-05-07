@@ -1,4 +1,5 @@
 from __future__ import annotations
+from typing import Optional
 
 from functools import lru_cache
 from pathlib import Path
@@ -72,7 +73,7 @@ def forecast_hourly(limit: int = Query(default=48, ge=1, le=500)):
 
 
 @app.get("/forecast/zone-hour")
-def forecast_zone_hour(zone: str | None = None, limit: int = Query(default=200, ge=1, le=1000)):
+def forecast_zone_hour(zone: Optional[str] = None, limit: int = Query(default=200, ge=1, le=1000)):
     df = load_zone_hour()
     if zone:
         df = df[df["zone_key"].str.lower() == zone.lower()]
@@ -82,7 +83,7 @@ def forecast_zone_hour(zone: str | None = None, limit: int = Query(default=200, 
 
 
 @app.get("/recommendations/charging")
-def charging_recommendations(action: str | None = None, limit: int = Query(default=100, ge=1, le=1000)):
+def charging_recommendations(action: Optional[str] = None, limit: int = Query(default=100, ge=1, le=1000)):
     df = load_forecast()
     if action:
         df = df[df["charging_action"] == action]
@@ -121,7 +122,7 @@ def api_infrastructure(limit: int = Query(default=50, ge=1, le=500)):
 
 
 @app.get("/api/charging-recommendations")
-def api_charging_recommendations(action: str | None = None, limit: int = Query(default=100, ge=1, le=1000)):
+def api_charging_recommendations(action: Optional[str] = None, limit: int = Query(default=100, ge=1, le=1000)):
     return charging_recommendations(action=action, limit=limit)
 
 
@@ -131,5 +132,5 @@ def api_forecast_hourly(limit: int = Query(default=48, ge=1, le=500)):
 
 
 @app.get("/api/forecast/zone-hour")
-def api_forecast_zone_hour(zone: str | None = None, limit: int = Query(default=200, ge=1, le=1000)):
+def api_forecast_zone_hour(zone: Optional[str] = None, limit: int = Query(default=200, ge=1, le=1000)):
     return forecast_zone_hour(zone=zone, limit=limit)
