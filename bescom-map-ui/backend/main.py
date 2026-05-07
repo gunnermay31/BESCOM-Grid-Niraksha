@@ -316,8 +316,16 @@ async def location_recommendations(limit: int = Query(default=10, ge=1, le=50)):
     except Exception:
         rows = []
 
+    # Filter strictly for Bengaluru area (lat 12.4-13.3, lon 77.0-78.0)
+    filtered_rows = []
+    for r in rows:
+        lat = r.get("lat")
+        lon = r.get("lon")
+        if lat and lon and (12.4 < float(lat) < 13.3 and 77.0 < float(lon) < 78.0):
+            filtered_rows.append(r)
+
     recs = []
-    for i, r in enumerate(rows[:10]):
+    for i, r in enumerate(filtered_rows[:10]):
         lat = r.get("lat")
         lon = r.get("lon")
         score = round(float(r.get("priority_score_0_100", 50) or 50), 1)
