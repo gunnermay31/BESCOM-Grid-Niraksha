@@ -225,7 +225,7 @@ export default function Dashboard() {
             { label:`New Sites (${recs.length})`, col:C.purple, val:showRecsMap, fn:setShowRecsMap },
           ].map(({label,col,val,fn}) => (
             <label key={label} style={{ display:"flex", alignItems:"center", gap:7, cursor:"pointer", fontSize:12 }}>
-              <input type="checkbox" checked={val} onChange={()=>fn((v:boolean)=>!v)} style={{accentColor:col}} />
+              <input type="checkbox" checked={val} onChange={(e)=>fn(e.target.checked)} style={{accentColor:col}} />
               <span style={{ width:8,height:8,borderRadius:"50%",background:col,display:"inline-block" }}></span>
               {label}
             </label>
@@ -450,7 +450,7 @@ export default function Dashboard() {
                     <div style={{ ...s.section, marginBottom:0 }}>🏗 Recommended New Stations ({recs.length})</div>
                     <div style={{display:'flex',gap:5,alignItems:'center',flexShrink:0}}>
                       <label title="Show on map" style={{ display:"flex", alignItems:"center", gap:3, fontSize:10, cursor:"pointer", color:C.muted }}>
-                        <input type="checkbox" checked={showRecsMap} onChange={()=>setShowRecsMap(v=>!v)} style={{ accentColor:C.purple, width:12, height:12 }} />
+                        <input type="checkbox" checked={showRecsMap} onChange={(e)=>setShowRecsMap(e.target.checked)} style={{ accentColor:C.purple, width:12, height:12 }} />
                         <span>map</span>
                       </label>
                       <button onClick={()=>setShowRecsList(v=>!v)}
