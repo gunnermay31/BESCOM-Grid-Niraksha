@@ -277,10 +277,9 @@ async def demand_zones():
         pri    = "🔴 Critical" if score > 75 else "🟠 High" if score > 55 else "🟡 Medium" if score > 35 else "🟢 Low"
         lat    = n.get("lat")
         lon    = n.get("lon")
-        # Only include Bengaluru-area zones (lat 12.5–13.2, lon 77.0–77.9)
-        if lat and lon:
-            if not (12.4 < float(lat) < 13.3 and 77.0 < float(lon) < 78.0):
-                continue
+        # Only include Bengaluru-area zones (lat 12.4-13.3, lon 77.0-78.0)
+        if not lat or not lon or not (12.4 < float(lat) < 13.3 and 77.0 < float(lon) < 78.0):
+            continue
         zones.append({
             "zone": str(n.get("zone_key", "Unknown")),
             "lat": lat, "lon": lon,
@@ -311,7 +310,7 @@ async def demand_zones():
 async def location_recommendations(limit: int = Query(default=10, ge=1, le=50)):
     """Infrastructure recommendations from ML priority scoring (real data)."""
     try:
-        data = await ml_get("/recommendations/infrastructure", {"limit": limit})
+        data = await ml_get("/recommendations/infrastructure", {"limit": 500})
         rows = data.get("rows", [])
     except Exception:
         rows = []
